@@ -25,29 +25,29 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['94778763517']
+global.owner = ['254735847430']
 
-global.premium = ['Qᴜᴇᴇɴ ᴄᴜᴛɪᴇ-ᴍᴅ']
+global.premium = ['JOSHHACKER']
 
-global.ownernomer = '+94778763517'
+global.ownernomer = '+254735847430'
 
-global.ownername = 'ᴛʜᴇꜱᴀɴᴅᴜ ᴛʜᴇᴡꜱᴀʀᴀ'
+global.ownername = 'JOSH'
 
-global.botname = 'Qᴜᴇᴇɴ ᴄᴜᴛɪᴇ-ᴍᴅ'
+global.botname = 'JOSH ROBOT'
 
-global.footer = 'Qᴜᴇᴇɴ ᴄᴜᴛɪᴇ-ᴍᴅ.'
+global.footer = 'JOSH ᴄᴜᴛɪᴇ-ᴍᴅ.'
 
-global.ig = 'https://github.com/ThesanduT/QueenCutie-MD'
+global.ig = 'https://github.com/Joshhacker254/QueenCutie-MD'
 
-global.region = '*╚═══ •Qᴜᴇᴇɴ ᴄᴜᴛɪᴇ-ᴍᴅ• ═══╝*'
+global.region = '*╚═══ •JOSH ᴄᴜᴛɪᴇ-ᴍᴅ• ═══╝*'
 
-global.sc = 'https://api.whatsapp.com/send?phone=+94778763517'
+global.sc = 'https://api.whatsapp.com/send?phone=+254735847430'
 
 global.myweb = 'https://github.com/ThesanduT/QueenCutie-MD'
 
-global.packname = 'Qᴜᴇᴇɴ ᴄᴜᴛɪᴇ ꜱᴛɪᴄᴋᴇʀꜱ'
+global.packname = 'JOSH ᴄᴜᴛɪᴇ ꜱᴛɪᴄᴋᴇʀꜱ'
 
-global.author = 'ᴛʜᴇꜱᴀɴᴅᴜ ᴛʜᴇᴡꜱᴀʀᴀ'
+global.author = 'JOSH'
 
 global.sessionName = 'session'
 
